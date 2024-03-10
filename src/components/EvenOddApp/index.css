@@ -1,0 +1,44 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 100vh;
+  margin: 55px;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.count-value {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 55px;
+  font-weight: bold;
+}
+.status-heading {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.btn {
+  background-color: #ffffff;
+  width: 95px;
+  height: 35px;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.escription {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.increment-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
